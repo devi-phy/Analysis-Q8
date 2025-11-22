@@ -73,6 +73,9 @@ This analysis was generated with human oversight and with the assistance of an L
 - `analysis/out/retention_plot.png` — chart (quarterly trend and benchmark).
 - All code commits include LLM-assistance labels for traceability.
 
+- (LLM-assisted commit)
+
+
 ## How to reproduce locally
 1. Clone the repo:
 ```bash
